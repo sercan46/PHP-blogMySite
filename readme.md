@@ -1,5 +1,5 @@
-## Projenin Amacı
+# Blog Sitem
 
-PHP ile geliştirmiş olduğum kendimi tanıttığım gerçekte olan web sitem.
+My live blog web site where I give information about myself.
 
 ## SİTE URL : https://www.sercanozbek.com/
